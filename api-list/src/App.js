@@ -4,7 +4,7 @@ import Results from './components/Results';
 import SearchBar from './components/SearchBar';
 import './App.css';
 
-const API_KEY = 'E2HnrBcGepUsY4wA1gPRnGiqbkbi8A0h';
+const API_KEY = 'cChJVRjIXEs3hA4JLdOq99BGaSI7qYJe';
 
 const App = () => {
   const [results, setResults] = useState([]);
